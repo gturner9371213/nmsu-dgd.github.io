@@ -24,7 +24,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [TA's Example](#Team-TA---Theo-Platt)
 
 
+### Infinity - Garrett Turner Avery Johnson Matthew Quinones Akanksha Varma Sagi Group 7 
+[Infinify](https://github.com/SmallBrainMatt/CS477-Lightning-Game)
 
+[v0.1](https://docs.google.com/document/d/1hhZWwz6Kxgz_PcZEyrrlp8_0cAgKxSi53QwwxyRDi9M/edit?usp=sharing)
+
+<img src="./art/Infinity.png" 
 ### Team CodeCrashers -  Akanksha4varma, Jaya Jwalitha Nagulla, meghana-20, Rama Chandra Baddireddy
 [School for Good and Evil](https://meghana-20.github.io/CodeCrashers/)
 
@@ -113,3 +118,4 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/rrdemo1.gif" alt="demo" height="128"/>
 <img src="./art/running model.gif" alt="demo" height="128"/>
+
